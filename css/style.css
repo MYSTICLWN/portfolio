@@ -346,6 +346,11 @@ nav a:hover {
 
 .contact-form form input {
   height: 1.5em;
+  background: transparent;
+  border: none;
+  border-bottom: 3px solid white;
+  outline: none;
+  color: white;
 }
 
 .contact-form form input#message {
