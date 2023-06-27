@@ -330,7 +330,8 @@ nav a:hover {
   text-align: center;
   margin: 1.5rem 0 0;
   font-size: 2rem;
-  filter: drop-shadow(0 0 2px);
+  filter: drop-shadow(0 0 5px white);
+  color: black;
 }
 
 .contact-form .input-form form {
@@ -375,7 +376,8 @@ nav a:hover {
   text-align: center;
   margin: 1.25rem 0 0;
   font-size: 1.5rem;
-  filter: drop-shadow(0 0 2px);
+  filter: drop-shadow(0 0 5px white);
+  color: black;
 }
 
 footer {
